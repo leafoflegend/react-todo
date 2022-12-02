@@ -1,0 +1,10 @@
+.list_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tasks_completed {
+    color: lawngreen;
+    font-style: italic;
+}
